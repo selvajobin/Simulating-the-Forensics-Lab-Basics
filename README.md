@@ -5,7 +5,8 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 # Implementation Steps :
 ### *Step 1: Install VirtualBox*
 
-###  Download VirtualBox:  click here
+###  Download VirtualBox:  [click here](https://virtualbox.en.softonic.com/)  
+
 # Installation Steps:
 Download the Windows hosts .exe file from the official VirtualBox website.
 Run the installer and follow the on-screen instructions.
@@ -13,7 +14,8 @@ Once installed, launch VirtualBox to verify the installation.
 
 ### *Step 2: Install Kali Linux on VirtualBox*
 
-### Download Kali Linux VM: Click Here
+### Download Kali Linux VM: [Click Here](https://www.kali.org/get-kali/#kali-virtual-machines)  
+
 
 ### Installation Steps:
 
@@ -31,7 +33,7 @@ Once installed, launch VirtualBox to verify the installation.
 ### *Step 3: Install Autopsy (GUI-based Forensic Tool)*
 
 
-### Download Autopsy: Click Here
+### Download Autopsy: [Click Here](https://www.autopsy.com/download/)
 
 ### Installation Steps:
 Download the Autopsy Windows Installer from the official website.
@@ -42,7 +44,7 @@ Run autopsy.exe and set up a new forensic case for analysis.
 
 ### *Step 4: Install Sleuth Kit (CLI-based Forensic Tools)*
 
-###  Download Sleuth Kit: Click Here
+###  Download Sleuth Kit: [Click Here](https://sleuthkit.org/download.php)
 
 ### Installation Steps:
 1. Download the Windows ZIP package from the official website.
